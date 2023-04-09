@@ -8,7 +8,7 @@ To get started with Project Nexus, simply clone this repository to your local ma
 
 ### Prerequisites
 
-- Unity 2020.3.2f1 or later
+- Unity 2021.3.22f1 or later
 - Git
 
 ### Installing
